@@ -1,0 +1,14 @@
+{
+    "configuration": "default",
+    "documentId": "1359aeab63561953b93b6aad",
+    "documentMicroversion": "99d26691da74a11989133835",
+    "documentVersion": "e10350e3c2736450c9b99736",
+    "elementId": "d8b70d6b1a21cbc88807c9df",
+    "fullConfiguration": "default",
+    "id": "MJhFa6A1U9j665wyo",
+    "isStandardContent": false,
+    "name": "Stator <1>",
+    "partId": "JID",
+    "suppressed": false,
+    "type": "Part"
+}
